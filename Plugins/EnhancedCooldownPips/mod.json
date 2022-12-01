@@ -1,0 +1,16 @@
+{
+	"displayName": "Enhanced Cooldown Pips",
+	"version": "1.0",
+	"buildNumber": 10,
+	"description": "Colours the cooldown pips based on range",
+	"author": "diji",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/UI/Mech/Components/CrossHairWeaponGroupCooldown.uasset"
+	],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
+}
