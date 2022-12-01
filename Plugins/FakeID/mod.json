@@ -7,7 +7,9 @@
 	"authorURL": "",
 	"defaultLoadOrder": 0,
 	"gameVersion": "1.1.0",
-	"manifest": [],
+	"manifest": [
+		"/Game/UI/FrontEnd/Barracks/Components/BarracksPilotInfo.uasset"
+	],
 	"steamPublishedFileId": 0,
 	"steamLastSubmittedBuildNumber": 0,
 	"steamModVisibility": "Private"
