@@ -15,11 +15,11 @@
 /Plugins/OnlineSubsystemEpic
 /Plugins/UE4Duino
 /Plugins/VictoryPlugin
-/Plugins/*/Intermediate
-/Plugins/*/Saved
 /Protocol
 /Releases
 /Shaders
 /Tools
 /WwiseProject
-
+**/Intermediate
+**/Saved
+ActiveMod.txt
