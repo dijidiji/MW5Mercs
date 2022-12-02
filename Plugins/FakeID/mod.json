@@ -1,16 +1,17 @@
 {
-	"displayName": "FakeID",
-	"version": "1.0",
-	"buildNumber": 0,
-	"description": "Choose your portrait",
-	"author": "diji",
-	"authorURL": "",
-	"defaultLoadOrder": 0,
-	"gameVersion": "1.1.0",
-	"manifest": [
-		"/Game/UI/FrontEnd/Barracks/Components/BarracksPilotInfo.uasset"
-	],
-	"steamPublishedFileId": 0,
-	"steamLastSubmittedBuildNumber": 0,
-	"steamModVisibility": "Private"
+   "displayName" : "FakeID",
+   "version" : "1.0",
+   "buildNumber" : 4,
+   "description" : "Pilot customisation",
+   "author" : "diji",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/UI/FrontEnd/Barracks/Components/BarracksPilotInfo.uasset",
+      "/Game/UI/FrontEnd/Deployment/DropPreperationWidget.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
 }
