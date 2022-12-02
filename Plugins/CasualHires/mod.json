@@ -1,0 +1,20 @@
+{
+   "displayName" : "CasualHires",
+   "version" : "1.0",
+   "buildNumber" : 5,
+   "description" : "",
+   "author" : "diji",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/UI/FrontEnd/Barracks/Components/BarracksPilotListItem.uasset",
+      "/Game/UI/FrontEnd/Components/PilotSelectListItem.uasset",
+      "/Game/UI/FrontEnd/Deployment/Components/DeploymentPilotWidget.uasset",
+      "/Game/UI/FrontEnd/PostMission/PostDropPilotStatistics.uasset",
+      "/Game/UI/Mech/Components/LanceStatus/LanceStatusWidget.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}
