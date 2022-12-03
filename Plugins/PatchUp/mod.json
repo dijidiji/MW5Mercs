@@ -1,0 +1,16 @@
+{
+	"displayName": "PatchUp",
+	"version": "1.0",
+	"buildNumber": 16,
+	"description": "Repair armor and structure per point",
+	"author": "diji",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/UI/FrontEnd/Mechlab/Components/MechComponentHeader.uasset"
+	],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
+}
