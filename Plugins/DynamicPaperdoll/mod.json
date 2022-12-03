@@ -1,0 +1,24 @@
+{
+   "displayName" : "DynamicPaperdoll",
+   "version" : "1.0",
+   "buildNumber" : 15,
+   "description" : "",
+   "author" : "diji",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Objects/Targets/MechPaperDoll.uasset",
+      "/Game/Objects/Targets/MechTargetComponent.uasset",
+      "/Game/Objects/Targets/TankPaperDoll.uasset",
+      "/Game/Objects/Targets/TankTargetComponent.uasset",
+      "/Game/Objects/Targets/TurretPaperDoll.uasset",
+      "/Game/Objects/Targets/TurretTargetComponent.uasset",
+      "/Game/Objects/Targets/VTOLDualEnginePaperDoll.uasset",
+      "/Game/Objects/Targets/VTOLTargetComponent.uasset",
+      "/Game/UI/Mech/HUD_TargetObject.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}
