@@ -1,15 +1,13 @@
 {
 	"displayName": "CallForEvac",
 	"version": "1.0",
-	"buildNumber": 2,
+	"buildNumber": 3,
 	"description": "",
 	"author": "diji",
 	"authorURL": "",
 	"defaultLoadOrder": 0,
 	"gameVersion": "1.1.0",
-	"manifest": [
-		"/Game/UI/FrontEnd/PauseScreen.uasset"
-	],
+	"manifest": [],
 	"steamPublishedFileId": 0,
 	"steamLastSubmittedBuildNumber": 0,
 	"steamModVisibility": "Private"
