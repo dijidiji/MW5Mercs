@@ -1,4 +1,4 @@
-Index,Name,IsMale,IsFemale
+Index,FirstName,IsMale,IsFemale
 0,Aabraham,true,false
 1,Aada,false,true
 2,Aadan,true,false
