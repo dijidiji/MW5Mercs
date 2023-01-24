@@ -1,0 +1,3 @@
+﻿DialogueVoice,Persona,GameplayTag,Caption,Name,SourcePath,MaxPlaysPerCampaign,MaxPlaysPerMission,CooldownNumMissions,CooldownTimeSeconds,AllowSelfContextInterrupt,AllowLowerPriorityInterrupt,IsServerOnly,IsLineDisabled
+Betty-Evac_DialogueVoice,Betty-Evac_Persona,DialogueContext.Mission.UserAbortMission,Emergency extraction protocol initiated.,betty_global_abort1,MW2_Betty_-_Emergency_Extraction_Protocol_Initiated.wav,,1,,,,TRUE,,
+Betty-Evac_DialogueVoice,Betty-Evac_Persona,DialogueContext.Mission.End,Sensors indicate: Friendly dropship has entered atmosphere.,betty_global_mission_end1,MW2_Betty_-_Sensors_Indicate_Friendly_Dropship_has_Entered_Atmosphere.wav,,1,,,,,,
