@@ -1,7 +1,7 @@
 {
    "displayName" : "FakeID",
    "version" : "1.0",
-   "buildNumber" : 5,
+   "buildNumber" : 6,
    "description" : "Pilot customisation",
    "author" : "diji",
    "authorURL" : "",
@@ -10,9 +10,7 @@
    "manifest" : [
       "/Game/UI/FrontEnd/Barracks/Components/BarracksPilotInfo.uasset",
       "/Game/UI/FrontEnd/Barracks/Components/BarracksPilotListItem.uasset",
-      "/Game/UI/FrontEnd/Components/PilotSelectListItem.uasset",
-      "/Game/UI/FrontEnd/Deployment/DropPreperationWidget.uasset",
-      "/Game/UI/FrontEnd/Deployment/Components/DeploymentPilotWidget.uasset"
+      "/Game/UI/FrontEnd/Deployment/DropPreperationWidget.uasset"
    ],
    "steamPublishedFileId" : 0,
    "steamLastSubmittedBuildNumber" : 0,
